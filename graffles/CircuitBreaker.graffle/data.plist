@@ -65,13 +65,43 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
+			<string>{{208, 88}, {69, 32}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>108</integer>
+			<key>Layer</key>
+			<integer>0</integer>
+			<key>Shape</key>
+			<string>NoteShape</string>
+			<key>Style</key>
+			<dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
+\cocoascreenfonts1{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
+
+\f0\fs24 \cf0 CB Metrics}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
 			<string>{{464.5, 350.375}, {0.5, 6.7500119209289551}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
 			<integer>102</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Shape</key>
 			<string>Circle</string>
 			<key>Style</key>
@@ -113,7 +143,7 @@
 			<key>ID</key>
 			<integer>94</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Points</key>
 			<array>
 				<string>{465.0000000321096, 353.75292424093072}</string>
@@ -170,11 +200,11 @@
 			<key>ID</key>
 			<integer>93</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Points</key>
 			<array>
-				<string>{219.06020690163433, 417.79006405531578}</string>
-				<string>{320.77428784802908, 384.5417403617887}</string>
+				<string>{219.06455901266523, 417.7976724531926}</string>
+				<string>{320.78627560798725, 384.56596565909371}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -227,11 +257,11 @@
 			<key>ID</key>
 			<integer>92</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Points</key>
 			<array>
-				<string>{218.9549133205598, 293.39401129646768}</string>
-				<string>{320.91036064893098, 327.18577089857416}</string>
+				<string>{218.96596340769372, 293.37469617393737}</string>
+				<string>{320.9414599319781, 327.12425066543392}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -278,7 +308,7 @@
 			<key>ID</key>
 			<integer>103</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -409,7 +439,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>104</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -429,7 +459,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>86</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Points</key>
 			<array>
 				<string>{739.00000762939453, 356}</string>
@@ -618,7 +648,7 @@ Dashboard}</string>
 			<key>ID</key>
 			<integer>82</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -775,7 +805,7 @@ Aggregator}</string>
 			<key>ID</key>
 			<integer>78</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>Bounds</key>
@@ -785,7 +815,7 @@ Aggregator}</string>
 			<key>ID</key>
 			<integer>71</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Shape</key>
 			<string>Hexagon</string>
 			<key>Style</key>
@@ -854,7 +884,7 @@ Aggregator}</string>
 			<key>ID</key>
 			<integer>70</integer>
 			<key>Layer</key>
-			<integer>0</integer>
+			<integer>1</integer>
 			<key>Shape</key>
 			<string>Hexagon</string>
 			<key>Style</key>
@@ -933,7 +963,7 @@ Aggregator}</string>
 			<key>ID</key>
 			<integer>66</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>Points</key>
 			<array>
 				<string>{739.00000762939453, 356}</string>
@@ -1122,7 +1152,7 @@ Dashboard}</string>
 			<key>ID</key>
 			<integer>62</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -1279,7 +1309,7 @@ Aggregator}</string>
 			<key>ID</key>
 			<integer>58</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -1436,7 +1466,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>54</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>Class</key>
@@ -1456,7 +1486,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>47</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>Points</key>
 			<array>
 				<string>{218.84470518031941, 417.41338194496791}</string>
@@ -1513,7 +1543,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>25</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>Points</key>
 			<array>
 				<string>{218.74530478144337, 293.76033306428729}</string>
@@ -1560,7 +1590,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>46</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>Shape</key>
 			<string>Hexagon</string>
 			<key>Style</key>
@@ -1629,7 +1659,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>22</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>Shape</key>
 			<string>Hexagon</string>
 			<key>Style</key>
@@ -1708,7 +1738,7 @@ Queue}</string>
 			<key>ID</key>
 			<integer>19</integer>
 			<key>Layer</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>Points</key>
 			<array>
 				<string>{484.00000227049037, 356.00001543544073}</string>
@@ -1772,13 +1802,23 @@ Queue}</string>
 	<array>
 		<dict>
 			<key>Lock</key>
-			<string>NO</string>
+			<string>YES</string>
+			<key>Name</key>
+			<string>Layer 3</string>
+			<key>Print</key>
+			<string>YES</string>
+			<key>View</key>
+			<string>YES</string>
+		</dict>
+		<dict>
+			<key>Lock</key>
+			<string>YES</string>
 			<key>Name</key>
 			<string>Layer 2</string>
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
-			<string>YES</string>
+			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
@@ -1813,7 +1853,7 @@ Queue}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-09-10 02:56:06 +0000</string>
+	<string>2015-09-10 14:27:31 +0000</string>
 	<key>Modifier</key>
 	<string>Craig Walls</string>
 	<key>NotesVisible</key>
@@ -1894,7 +1934,7 @@ Queue}</string>
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{529, 302}, {1293, 875}}</string>
+		<string>{{2133, 302}, {1293, 875}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
